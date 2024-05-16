@@ -1,0 +1,26 @@
+1. Write a Java program to obtain the following result.
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+2. Write a Java program using a single ‘System.out.println()’ to get the following
+output.
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+3. Enter two integer values from the keyboard and find the sum, average,
+maximum value and minimum value of these values.
+
+4. Write a Java program to convert miles to kilometers. The conversion formula is
+"1 mile = 1.60934 kilometers".
+
+5. Given the radius of a circle as a keyboard input, find the area and perimeter (
+area = πr2
+, perimeter= 2 πr)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AC01/AC01.iml" filepath="$PROJECT_DIR$/AC01/AC01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FutureEyeAcademy.iml" filepath="$PROJECT_DIR$/FutureEyeAcademy.iml" />
+    </modules>
+  </component>
+</project>
